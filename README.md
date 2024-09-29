@@ -47,13 +47,6 @@ https://github.com/user-attachments/assets/1ce80f7e-cf54-44a5-b6b0-1038ecda940c
 - **Power BI Mobile**: Para adaptação da visualização em dispositivos móveis.
 - **Fonte de Dados**: Dados fictícios de vendas de produtos e faturamento do petshop.
 
-## 🚀 Como Rodar o Projeto
-
-1. Clone o repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/GatitoPetshopDashboard.git
-
-
 ## 📁 Estrutura do Repositório
 
 ```bash
