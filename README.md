@@ -46,3 +46,5 @@ https://github.com/user-attachments/assets/1ce80f7e-cf54-44a5-b6b0-1038ecda940c
 - **Power BI Desktop**: Para a criação e modelagem dos gráficos, importação e transformação de dados, e otimização da experiência de visualização.
 - **Power BI Mobile**: Para adaptação da visualização em dispositivos móveis.
 - **Fonte de Dados**: Dados fictícios de vendas de produtos e faturamento do petshop.
+
+## 🗂️ Estrutura do Repositório
