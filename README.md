@@ -48,15 +48,8 @@ https://github.com/user-attachments/assets/1ce80f7e-cf54-44a5-b6b0-1038ecda940c
 - **Fonte de Dados**: Dados fictícios de vendas de produtos e faturamento do petshop.
 
 ## 🗂️ Estrutura do Repositório
-|
-├──data/
-├──────────cliente.txt
-├──────────gatitos_2020.xlxs
-├──────────gatitos_2020.xlxs
-├──────────gatitos_2020.xlxs
-├──visuais/
-├──────────gatitodashboard_desktop.png
-├──────────gatitodashboard_mobile.mp4
-├──Dashboard - Gatitos.pbix
-├──GatitoPetshopDashboard/README.md
 
+- `data/`: Contém arquivos de dados, incluindo informações sobre clientes e gatinhos.
+- `visuais/`: Inclui imagens e vídeos demonstrativos do dashboard.
+- `Dashboard - Gatitos.pbix`: Arquivo do Power BI que contém o dashboard.
+- `GatitoPetshopDashboard/README.md`: Este arquivo com instruções sobre o projeto.
