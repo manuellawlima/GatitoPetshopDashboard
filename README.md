@@ -50,6 +50,6 @@ https://github.com/user-attachments/assets/1ce80f7e-cf54-44a5-b6b0-1038ecda940c
 ## 🗂️ Estrutura do Repositório
 
 - `data/`: Contém arquivos de dados, incluindo informações sobre clientes e gatinhos.
-- `visuais/`: Inclui imagens e vídeos demonstrativos do dashboard.
+- `visuals/`: Inclui imagens e vídeos demonstrativos do dashboard.
 - `Dashboard - Gatitos.pbix`: Arquivo do Power BI que contém o dashboard.
 - `GatitoPetshopDashboard/README.md`: Este arquivo com instruções sobre o projeto.
